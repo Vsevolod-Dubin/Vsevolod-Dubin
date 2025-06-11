@@ -15,6 +15,7 @@ I'm a backend developer focused on Python & Django. I help businesses build APIs
 - [YaMDb](https://github.com/Vsevolod-Dubin/yamdb_final): REST API for movie reviews with authentication, rating system, filtering
 - [Blogicum](https://github.com/Vsevolod-Dubin/blogicum): Blogging platform with user management, forms, and Django admin
 - [Telegram Bot](https://github.com/Vsevolod-Dubin/telegram-bot): Assistant bot with API integration, logging, and error handling
+- [YaTube-API] (https://github.com/Vsevolod-Dubin/Yatube-API) REST API for a social blogging platform with user posts, comments, following, and JWT authentication
 
 ---
 
