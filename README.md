@@ -20,12 +20,6 @@ I'm a backend developer focused on Python & Django. I help businesses build APIs
 
 ---
 
-## 📫 Contact
-- Telegram: [@vcevolod](https://t.me/vcevolod)
-- Email: vcevolodstarpro@gmail.com
-
----
-
 <details>
 <summary>🇷🇺 Нажми, чтобы прочитать описание на русском</summary>
 
@@ -52,8 +46,5 @@ I'm a backend developer focused on Python & Django. I help businesses build APIs
 
 ---
 
-## 📫 Контакты
-- Telegram: [@vcevolod](https://t.me/vcevolod)
-- Email: vcevolodstarpro@gmail.com
 
 </details>
