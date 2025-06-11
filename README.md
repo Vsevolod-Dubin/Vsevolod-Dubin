@@ -5,8 +5,9 @@ I'm a backend developer focused on Python & Django. I help businesses build APIs
 
 ## 💼 What I do
 - Build backend services using **Django + DRF**
-- Create **Telegram bots** with business logic and external API integrations
-- Handle authentication, permissions, filtering, and pagination
+- Create **social APIs** with user posts, comments, subscriptions, and feeds
+- Develop **Telegram bots** with business logic and external API integrations
+- Handle authentication (JWT), permissions, filtering, and pagination
 - Support and maintain backend logic for web applications
 
 ---
@@ -34,10 +35,11 @@ I'm a backend developer focused on Python & Django. I help businesses build APIs
 ---
 
 ## 💼 Чем я занимаюсь
-- Разработка серверной логики на **Django + DRF**
-- Создание **Telegram-ботов** с бизнес-логикой и API-интеграциями
-- Настройка авторизации, прав доступа, пагинации, фильтрации
-- Поддержка и развитие backend-приложений
+- Разрабатываю backend-сервисы на **Django + DRF**
+- Создаю **социальные API**: посты, комментарии, подписки, лента активности
+- Разрабатываю **Telegram-ботов** с бизнес-логикой и интеграцией с внешними API
+- Настраиваю авторизацию (в том числе JWT), права доступа, фильтрацию, пагинацию
+- Поддерживаю и развиваю серверную логику веб-приложений
 
 ---
 
