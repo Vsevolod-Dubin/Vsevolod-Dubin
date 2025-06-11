@@ -20,8 +20,8 @@ I'm a backend developer focused on Python & Django. I help businesses build APIs
 ---
 
 ## 📫 Contact
-- Telegram: [@vsevolod_dubin](https://t.me/vsevolod_dubin)
-- Email: vsevolod.dubin@gmail.com
+- Telegram: [@vcevolod](https://t.me/vcevolod)
+- Email: vcevolodstarpro@gmail.com
 
 ---
 
@@ -45,6 +45,8 @@ I'm a backend developer focused on Python & Django. I help businesses build APIs
 - [YaMDb](https://github.com/Vsevolod-Dubin/yamdb_final) — API для отзывов на фильмы с авторизацией, рейтингом, фильтрацией
 - [Blogicum](https://github.com/Vsevolod-Dubin/blogicum) — блог-платформа с пользователями, формами, админкой Django
 - [Telegram Bot](https://github.com/Vsevolod-Dubin/telegram-bot) — бот-ассистент с интеграцией внешнего API, логированием и обработкой ошибок
+- [YaTube-API](https://github.com/Vsevolod-Dubin/Yatube-API) REST API для соц. сети с постами пользователей, комментариями, подписчиками и JWT-аутентификацией
+
 
 ---
 
