@@ -49,7 +49,7 @@ I'm a backend developer focused on Python & Django. I help businesses build APIs
 ---
 
 ## 📫 Контакты
-- Telegram: [@vsevolod_dubin](https://t.me/vsevolod_dubin)
-- Email: vsevolod.dubin@gmail.com
+- Telegram: [@vcevolod](https://t.me/vcevolod)
+- Email: vcevolodstarpro@gmail.com
 
 </details>
