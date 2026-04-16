@@ -1,10 +1,11 @@
 # Hi, I'm Vsevolod 👋  
-I'm a backend developer focused on Python & Django. I help businesses build APIs, automate workflows, and create custom Telegram bots.
+I'm a backend developer focused on Python, FastAPI & Django. I build APIs, automate workflows, and develop scalable backend services.
 
 ---
 
 ## 💼 What I do
-- Build backend services using **Django + DRF**
+- Build backend services using **FastAPI & Django + DRF**
+- Work with databases, async tasks, and background jobs
 - Create **social APIs** with user posts, comments, subscriptions, and feeds
 - Develop **Telegram bots** with business logic and external API integrations
 - Handle authentication (JWT), permissions, filtering, and pagination
@@ -13,6 +14,8 @@ I'm a backend developer focused on Python & Django. I help businesses build APIs
 ---
 
 ## 🚀 Featured Projects
+- [Aiti_guru](https://github.com/Vsevolod-Dubin/aiti_guru): Backend service developed as a test assignment, providing REST API for user interaction and business logic management. Includes authentication, database integration, and structured API endpoints.
+- [Task management API](https://github.com/Vsevolod-Dubin/task-management-api): Task management API with authentication, filtering, and REST endpoints
 - [YaMDb](https://github.com/Vsevolod-Dubin/yamdb_final): REST API for movie reviews with authentication, rating system, filtering
 - [YaTube-API](https://github.com/Vsevolod-Dubin/Yatube-API) REST API for a social blogging platform with user posts, comments, following, and JWT authentication
 - [Blogicum](https://github.com/Vsevolod-Dubin/blogicum): Blogging platform with user management, forms, and Django admin
